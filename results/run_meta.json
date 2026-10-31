@@ -1,0 +1,14 @@
+{
+  "quick": false,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "shots_per_basis": 20000,
+  "calibration_shots": 20000,
+  "reps_per_seed": 200,
+  "runtime_s": 91.8
+}

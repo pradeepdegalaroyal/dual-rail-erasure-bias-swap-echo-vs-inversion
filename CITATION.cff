@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Erasure-Invisible Loss-Asymmetry Bias in a Dual-Rail Memory: Swap Echo versus Classical Inversion"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-10-31
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/dual-rail-erasure-bias-swap-echo-vs-inversion"
+abstract: "Simulation study of the conditional error that erasure postselection leaves in a dual-rail memory with unequal mode loss rates, and of a swap echo versus calibrated classical inversion as mitigations."
+keywords:
+  - erasure qubits
+  - dual-rail
+  - non-Hermitian dynamics
+  - Floquet echo
